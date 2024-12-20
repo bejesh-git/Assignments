@@ -1268,6 +1268,89 @@
         }
       ],
       "cart": []
+    },
+    {
+      "id": "e8a6",
+      "fname": "s",
+      "email": "s",
+      "password": "s",
+      "mobile": "5145",
+      "address": "sdhjkjisdjf",
+      "wishlist": [
+        {
+          "name": "7up Bottle",
+          "isVeg": false,
+          "isNonVeg": false,
+          "isSnack": false,
+          "isDrink": true,
+          "type": "",
+          "src": "./products/drink-7up-bottle.jpg",
+          "price": 40,
+          "description": "A refreshing lemon-lime soda in a convenient bottle, perfect for quenching your thirst on the go.",
+          "id": "4966"
+        }
+      ],
+      "cart": []
+    },
+    {
+      "id": "c540",
+      "fname": "bejesh",
+      "email": "bejesh",
+      "password": "bejesh",
+      "mobile": "860925121",
+      "address": "",
+      "wishlist": [
+        {
+          "name": "Bhelpoori",
+          "isVeg": false,
+          "isNonVeg": false,
+          "isSnack": true,
+          "isDrink": false,
+          "type": "snack",
+          "src": "./products/S-bhelpoori.jpg",
+          "price": 50,
+          "description": "A popular Indian street food made with puffed rice, vegetables, and tangy tamarind sauce.",
+          "id": "72f3"
+        },
+        {
+          "name": "Dahi Poori",
+          "isVeg": false,
+          "isNonVeg": false,
+          "isSnack": true,
+          "isDrink": false,
+          "type": "snack",
+          "src": "./products/S-dhaipoori.jpg",
+          "price": 60,
+          "description": "A popular Indian street food, crispy puris filled with tangy yogurt and spices.",
+          "id": "bcad"
+        }
+      ],
+      "cart": [
+        {
+          "name": "Curd Vadai",
+          "isVeg": false,
+          "isNonVeg": false,
+          "isSnack": true,
+          "isDrink": false,
+          "type": "snack",
+          "src": "./products/S-curdvadai.jpg",
+          "price": 50,
+          "description": "A delicious South Indian snack made from lentil fritters soaked in creamy curd.",
+          "id": "c555"
+        },
+        {
+          "name": "Chocolate Browne",
+          "isVeg": false,
+          "isNonVeg": false,
+          "isSnack": true,
+          "isDrink": false,
+          "type": "snack",
+          "src": "./products/S-brow-wow-nie-single.jpg",
+          "price": 50,
+          "description": "A rich and fudgy chocolate brownie, perfect for satisfying your sweet tooth.",
+          "id": "2a2c"
+        }
+      ]
     }
   ]
 }
