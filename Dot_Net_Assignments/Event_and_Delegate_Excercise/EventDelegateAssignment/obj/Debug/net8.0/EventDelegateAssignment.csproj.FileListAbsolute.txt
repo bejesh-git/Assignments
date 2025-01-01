@@ -1,0 +1,15 @@
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\bin\Debug\net8.0\EventDelegateAssignment.exe
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\bin\Debug\net8.0\EventDelegateAssignment.deps.json
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\bin\Debug\net8.0\EventDelegateAssignment.runtimeconfig.json
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\bin\Debug\net8.0\EventDelegateAssignment.dll
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\bin\Debug\net8.0\EventDelegateAssignment.pdb
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.AssemblyInfoInputs.cache
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.AssemblyInfo.cs
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.csproj.CoreCompileInputs.cache
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.sourcelink.json
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.dll
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\refint\EventDelegateAssignment.dll
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.pdb
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\EventDelegateAssignment.genruntimeconfig.cache
+D:\Notes\BackEnd\EventDelegateAssignment\EventDelegateAssignment\obj\Debug\net8.0\ref\EventDelegateAssignment.dll
